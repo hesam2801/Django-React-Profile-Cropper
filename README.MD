@@ -2,7 +2,7 @@
 This project is a web application built with Django and React that allows users to upload and crop an image for their profile picture. The application provides a seamless user experience by integrating frontend image manipulation with backend storage and processing.
 ## Installation:
 - Clone the repository: \
-`git clone ` 
+`git clone https://github.com/hesam2801/Django-React-Profile-Cropper.git` 
 - Create a venv folder: \
 ` python -m venv .venv `
 - Active the .venv folder \
